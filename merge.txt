@@ -1,0 +1,1 @@
+la carpeta vacia no significaba ningun cambio para github, la carpeta se convirtio en un cambio luego de crear un documento en su interior
