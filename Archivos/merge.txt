@@ -1,3 +1,5 @@
-Laura 
+laura
 17 años
 ganar la materia y aprender mucho <3
+la carpeta vacia no significaba ningun cambio para github, la carpeta se convirtio en un cambio luego de crear un documento en su interior
+es importante tener cuidado por que se pueden crear errores
